@@ -104,3 +104,4 @@ data
 ./data
 supervisord.log
 supervisord.pid
+debug.log
